@@ -1,0 +1,7 @@
+gradio==4.44.0
+polars==1.11.0
+pandas==2.2.3
+pygwalker==0.4.8
+pyarrow==18.0.0
+openpyxl==3.1.5
+fastexcel==0.11.6
